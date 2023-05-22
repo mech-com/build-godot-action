@@ -1,4 +1,4 @@
-name: "Build Godot"
+name: "Build Godot Forked"
 description: "Build a Godot project for multiple platforms"
 author: josephbmanley
 inputs:
